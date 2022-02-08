@@ -31,7 +31,7 @@ public class MyFrame {
         this.mid1.setLayout(new BoxLayout(mid1, BoxLayout.X_AXIS));
         this.mid2 = new JPanel();
         this.mid2.setLayout(new BoxLayout(mid2, BoxLayout.X_AXIS));
-        this.timeCount = new JLabel("Time count: ");
+        this.timeCount = new JLabel("Time (in seconds): ");
         this.timeCount.setFont(getBigBoldFont());
         this.timerLabel = new JLabel();
         timerLabel.setForeground(Color.RED);

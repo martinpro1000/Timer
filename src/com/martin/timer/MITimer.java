@@ -54,7 +54,6 @@ public class MITimer {
                     int seconds = time % 60;
 
                     label.setText("Hours: " + hours + " | Minutes: " + minutes + " | Seconds: " + seconds);
-                    System.out.println("lol");
                 }else {
                     label.setForeground(Color.BLUE);
                     label.setText("Time is up!");

@@ -16,6 +16,11 @@ https://discord.gg/MNTWfS9pff
 
 - [@martinpro1000](https://www.github.com/martinpro1000)
 
+## Download
+
+Offical download link: https://www.mediafire.com/file/zpk077b8wb2lyv8/Timer.jar/file (java 17 required to run the jar)
+
+
 ## Requirements
 
-\
+-java 17

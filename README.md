@@ -23,5 +23,4 @@ Offical download link: https://www.mediafire.com/file/zpk077b8wb2lyv8/Timer.jar/
 
 ## Requirements
 
-\
 -java 17

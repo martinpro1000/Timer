@@ -5,9 +5,11 @@ import com.martin.main.*;
 import javax.swing.*;
 import javax.swing.plaf.ColorUIResource;
 import java.awt.*;
+import java.awt.image.*;
+import java.util.*;
 
 public class MyFrame {
-
+    private ImageIcon icon;
     private JFrame frame;
     private JTextField time;
     private JLabel timerLabel;
@@ -23,6 +25,7 @@ public class MyFrame {
     private JPanel mid2;
     private Main main;
     public MyFrame(Main main) {
+        this.icon = new ImageIcon(Objects.requireNonNull(getClass().getResource("/frameIcon.png")));
         this.setNimbusLookAndFeel();
         this.mid1 = new JPanel();
         this.mid1.setLayout(new BoxLayout(mid1, BoxLayout.X_AXIS));
@@ -40,6 +43,7 @@ public class MyFrame {
         this.bottomPanel.setLayout(new BoxLayout(bottomPanel, BoxLayout.X_AXIS));
         this.contentPane = new JPanel(new BorderLayout());
         this.frame = new JFrame("Java Timer");
+        this.frame.setIconImage(icon.getImage());
         this.time = new JTextField();
         this.start = new JButton("START");
         this.start.setFocusPainted(false);

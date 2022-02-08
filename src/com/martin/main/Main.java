@@ -11,7 +11,7 @@ import java.util.Timer;
 public class Main {
 
     /*
-    * The program was created entirely by martinpro1000. You can use it anywhere you want, but you can't say that it is your own thing.
+    * The program was created entirely by martinpro1000 (github). You can use it anywhere you want, but you can't say that it is your own thing.
     * It uses look and feels for JFrame, You can remove them if you don't want them!
     * */
 

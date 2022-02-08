@@ -18,7 +18,7 @@ https://discord.gg/MNTWfS9pff
 
 ## Download
 
-Offical download link: https://www.mediafire.com/file/zpk077b8wb2lyv8/Timer.jar/file (java 17 required to run the jar)
+Offical download link: https://www.mediafire.com/file/y6tbb8whjyhf1ir/Timer.jar/file (java 17 required to run the jar)
 
 
 ## Requirements

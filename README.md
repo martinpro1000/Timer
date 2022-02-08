@@ -1,5 +1,5 @@
 # Timer
-A java program with costum gui, created by martinpro1000 (github)
+A java timer with costum gui, created by martinpro1000 (github)
 
 ## Support
 
